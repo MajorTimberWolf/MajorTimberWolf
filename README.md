@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building a PacMan game using Quantum Computing Technology.**
 
-- 💬 Ask me about **Flutter, Large Language Models, Prompt Engineering, ROM and Kernel Development**
+- 💬 Ask me about **Flutter, Large Language Models, Prompt Engineering, Image Visualization and Enhancement, ROM and Kernel Development**
 
 - 📫 How to reach me **abku2504@gmail.com**
 
