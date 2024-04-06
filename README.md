@@ -1,4 +1,4 @@
-<h1 align="center">Yo Yo Yo 👋, I'm Abhinav Rajeev Kumar </h1>
+<h1 align="center">Hello 👋, I'm Abhinav Rajeev Kumar </h1>
 <h3 align="center">A Computer Science Student at SRMIST</h3>
 
 - 🌱 I’m currently learning **Quantum Computing and it's Integration with Artificial Intelligence.**
