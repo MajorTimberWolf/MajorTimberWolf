@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://drive.google.com/file/d/102FplRrD4iaoUo_hnRB4LTBak1PtX4sT/view?usp=share_link target="blank"><img align="center" src="https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="majortimbwlf21" height="30" width="120" /></a>
+<a href="https://www.linkedin.com/in/abhinav-rajeev-kumar/overlay/1712379473894/single-media-viewer/?profileId=ACoAAD3EA64Bi6AvMVxzsH8DzSwVtJu7dm9rZr0"><img align="center" src="https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="majortimbwlf21" height="30" width="120" /></a>
 <a href="https://twitter.com/majortimbwlf21" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="majortimbwlf21" height="30" width="100" /></a>
 <a href="https://www.linkedin.com/in/abhinav-rajeev-kumar/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abhinav Rajeev Kumar" height="30" width="100" /></a>
 <a href="https://github.com/MajorTimberWolf" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="majortimbwlf21" height="30" width="100" /></a>
