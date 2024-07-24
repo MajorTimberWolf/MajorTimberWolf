@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋 I'm Abhinav Rajeev Kumar </h1>
 <h3 align="center">A Computer Science Student at SRMIST</h3>
 
-- 🌱 I’m currently learning **Quantum Computing and it's Integration with Artificial Intelligence.**
+- 🌱 I’m currently learning **Quantum Computing and Trapped Ion Systems.**
 
-- 🔭 I’m currently working on **Building a PacMan game using Quantum Computing Technology.**
+- 🔭 I’m currently working on **Dynamic Circuit Splitting and ZNE using Mitiq**
 
-- 💬 Ask me about **Flutter, Large Language Models, Prompt Engineering, Image Visualization and Enhancement, ROM and Kernel Development**
+- 💬 Ask me about **Quantum Computing, Trapped Ion Systems, Flutter, Large Language Models, Prompt Engineering, ROM and Kernel Development**
 
 - 📫 How to reach me **abku2504@gmail.com**
 
