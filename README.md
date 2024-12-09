@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Dynamic Circuit Splitting and ZNE using Mitiq**
 
-- 💬 Ask me about **Quantum Computing, Trapped Ion Systems, Flutter, Large Language Models, Prompt Engineering, ROM and Kernel Development**
+- 💬 Ask me about **Quantum Computing, Trapped Ion Systems, Superconducting Systems, Flutter, Large Language Models, Prompt Engineering, ROM and Kernel Development**
 
 - 📫 How to reach me **abku2504@gmail.com**
 
