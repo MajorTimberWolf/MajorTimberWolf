@@ -1,15 +1,15 @@
 <h1 align="center">Hello 👋 I'm Abhinav Rajeev Kumar </h1>
 <h3 align="center">A Computer Science Student at SRMIST</h3>
 
-- 🌱 I’m currently learning **Quantum Computing and Trapped Ion Systems.**
+My interests lie broadly in experimenting with model interpretability and responsible ai. more specifically, I am interested in the following topics:
+- trustworthy mL models via explainable ai
+- transformer architecture (like designing and researching on mixed model architecture/MoE/SBM architecture)
+- chain-of-thought prompting with GQA (Group Query Action)
+- agentic systems like compound ai
 
-- 🔭 I’m currently working on **Dynamic Circuit Splitting and ZNE using Mitiq**
+besides the nerdy stuff, i run a [youTube channel](https://www.youtube.com/@Abhinav-R-Kumar). i have gone many sleepless nights watching football (Barcelona, Visca Barca), playing and listening to music (i don't have a specific music taste, i like all music but i do play the drums and occasionally the piano), and i also like watching anime and reading manga.
 
-- 💬 Ask me about **Quantum Computing, Trapped Ion Systems, Superconducting Systems, Flutter, Large Language Models, Prompt Engineering, ROM and Kernel Development**
-
-- 📫 How to reach me **abku2504@gmail.com**
-
-- ⚡ Fun fact **I have bricked my phone several times + I can play the drums 😎**
+feel free to mail me at abku2504@gmail.com if you want to chat.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
